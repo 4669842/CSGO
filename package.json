@@ -1,0 +1,12 @@
+{
+  "name": "Absolute",
+  "version": "1.0.0",
+  "description": "A CSGO Cheatarooni",
+  "main": "init.js",
+  "dependencies": {
+    "asynckeystate": "^0.0.2",
+    "bezier-js": "^2.2.5",
+    "memoryjs": "^2.1.0",
+    "terminalkit":"^1.15.5"
+  }
+}
